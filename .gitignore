@@ -1,0 +1,4 @@
+.venv/
+Credentials
+.env
+salim.pem
